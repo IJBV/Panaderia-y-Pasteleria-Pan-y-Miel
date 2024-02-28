@@ -1022,7 +1022,7 @@ html{
 
     .container-blogs{
         grid-template-columns: 1fr;
-        height: 74rem;
+       
     }
 
     .content-blog h3{
@@ -1041,11 +1041,7 @@ html{
         font-size: 1.8rem;
     }
 
-    .contact-info ul,
-    .information ul,
-    .my-account ul{
-        display: none;
-    }
+
 
     .contact-info {
         align-items: center;
@@ -1054,7 +1050,7 @@ html{
     }
 
     .menu-footer{
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .content p{
