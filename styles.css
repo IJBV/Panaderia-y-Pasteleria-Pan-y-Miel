@@ -940,6 +940,7 @@ html{
     }
     
     .container-blogs{
+        padding: 2rem;
         overflow: hidden;
         grid-template-columns: 1fr 1fr;
     }
