@@ -1041,14 +1041,6 @@ html{
         font-size: 1.8rem;
     }
 
-
-
-    .contact-info {
-        align-items: center;
-
-    
-    }
-
     .menu-footer{
         grid-template-columns: repeat(2, 1fr);
     }
